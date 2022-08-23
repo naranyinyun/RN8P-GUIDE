@@ -125,7 +125,7 @@ MIUI的开发版可以获取root权限，您可以授予搞机助手root权限�
 ### 尾记
 群星永远闪烁
 
-~~~~~~~~~~
+--------
 Powered By Docsify
 Copyright 2022 Nalanyinyun/Wilderness. All Rights Reserved
 本网站包含的内容使用[CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)共享
