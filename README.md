@@ -1,9 +1,9 @@
 <font color="ffb8c6">  
  
  
-# 概述
 
-## 概述
+
+# 概述
 
 这是一本 Xiaomi Redmi Note 8 Pro(begonia) 的刷机手册
 本手册暂时不会提供英文版
