@@ -1,4 +1,4 @@
-<font color="#eeb0c3">
+<font color="ffb8c6">
 # 概述
 
 ## 概述
