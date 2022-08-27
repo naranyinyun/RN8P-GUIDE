@@ -17,6 +17,11 @@
 	}
 	</style>
 	<link rel="shortcut icon" href="/favicon.ico">
+  <script>
+    if (typeof navigator.serviceWorker !== 'undefined') {
+      navigator.serviceWorker.register('sw.js')
+    }
+  </script>
 </head>
 <font color="#eeb0c3">
 <body>
