@@ -109,7 +109,10 @@ MIUI的开发版可以获取root权限，您可以授予搞机助手root权限�
 - 刷入Magisk
 - 刷入GAPPS
 
-?> 您可能需要跳过Google验证，可以使用搞机助手内的功能跳过
+?> 您可能需要跳过Google验证，在第三方Recovery终端内输入
+```
+dd if=/dev/zero of=/dev/block/by-name/frp
+```
 
 ?> 您可以在刷入后直接刷入其他的**动态分区**ROM，只需格式化data和双清
 
@@ -141,7 +144,8 @@ MIUI的开发版可以获取root权限，您可以授予搞机助手root权限�
 ## 内容
 
 不要着急，我们会逐步完善此手册的内容，如果您愿意帮助我们，可以到本项目的GitHub仓库编辑README.md
-?> 在提交PR时，请您允许所有者编辑
+这是我们的仓库[地址](https://github.com/naranyinyun/RN8P-GUIDE)
+?> 在提交PR时，请您允许所有者编辑，我们需要保持本手册的语言风格以及语法规范
 
 ## 链接
 
