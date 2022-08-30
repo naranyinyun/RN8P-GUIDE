@@ -1,7 +1,4 @@
 <font color="#21404D">  
- 
- 
-
 
 # 概述
 
@@ -108,6 +105,7 @@ MIUI的开发版可以获取root权限，您可以授予搞机助手root权限�
 - 刷入GAPPS
 
 ?> 您可能需要跳过Google验证，在第三方Recovery终端内输入
+
 ```
 dd if=/dev/zero of=/dev/block/by-name/frp
 ```
@@ -138,38 +136,71 @@ dd if=/dev/zero of=/dev/block/by-name/frp
 关于其他的步骤，可以参考上一小节的方法，我有点懒得写了，~~李姐万岁~~
 
 ## LineageOS v20.0
+
 本机型已经更新了LineageOS v20.0 UNOFFICIAL(Android13)
 这是Telegram的更新信息，因为太长，我简单做了摘要
+
+<detail>
+
 > LineageOS v20.0 | UNOFFICIAL
->
+> 
 > 开发者 @DarkJoker360dev
->
+> 
 > SELinux状态 强制执行
->
+> 
 > 修复 蓝牙音频
->
+> 
 > 修复 VoWiFi
->
+> 
 > 修复 VoLTE
->
+> 
 > 修复 屏幕录制器
->
+> 
 > 切换到AIDL widevine clearkey
->
+> 
 > 改进了应用程序的安装时间
->
+> 
 > 改进了性能
->
+> 
 > 无Gapps
->
+> 
 > [刷写手册](https://telegra.ph/Flash-ROM-AOSP-A12-Based-MIUI-125-FW-R-OSS-Non-Dynamic---Begonia-01-18)
+
+</detail>
+
+
 
 这是[下载链接](https://sourceforge.net/projects/darkjoker360-developements/files/Xiaomi/Redmi%20Note%208%20Pro/ROM/20.x/)
 
-如果您掌握了刷写方法，麻烦在本手册的GitHub Discussions提供信息，或直接提交PR，仓库链接在本手册尾部
+先决条件:
+
+- 运行MIUI12.5(Android11)
+
+- 已解锁
+
+刷入指南：
+
+- 刷入[TWRP](https://mirror.nalanyinyun.ml/d/AliDriver/twrp_3.6.0_11-2-20211203-UNOFFICIAL-begonia.img)
+
+- 双清
+
+- 使用MTP将卡刷包传入手机
+
+- 选择卡刷包并滑动确认刷入
+
+- 格式化data
+
+- 重启，完成
+
+
+
+!> LineageOS v20.0 不是 **动态分区** ，您必须线刷到MIUI12.5(Android11)才能继续
+
+
+
+
 
 感谢您的支持
-
 
 # 后记
 
