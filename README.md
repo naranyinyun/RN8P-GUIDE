@@ -74,7 +74,7 @@ adb reboot recovery
 
 !> 我并没有试过使用这种方式刷入Magisk，所以请您在无法启动设备时自行**关闭AVB**
 
-!> <font color="Red">**不要刷入其他人提供的boot,您无法确定它是否适用于您的设备**</font>
+!> <font color="Red">不要刷入其他人提供的boot,您无法确定它是否适用于您的设备</font>
 
 ## MIUI特色
 
