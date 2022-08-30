@@ -17,6 +17,8 @@
 
 ?> 部分链接我会放在友情链接部分中，请善用**侧边栏**
 
+!> 你现在看到的绿色和红色信息框分别代表提示和警告,极具风险的警告我们会使用红色,<font color="Red">就像这样</font>
+
 # Recovery
 
 ## 通过ADB刷入第三方Recovery
@@ -71,6 +73,8 @@ adb reboot recovery
 ?> 可以通过搞机助手等工具刷入，或者使用adb刷入，教程在配置adb环境那里的链接
 
 !> 我并没有试过使用这种方式刷入Magisk，所以请您在无法启动设备时自行**关闭AVB**
+
+!> <font color="Red">**不要刷入其他人提供的boot,您无法确定它是否适用于您的设备**</font>
 
 ## MIUI特色
 
@@ -165,9 +169,8 @@ SELinux状态 强制执行
 无Gapps
 
 [刷写手册](https://telegra.ph/Flash-ROM-AOSP-A12-Based-MIUI-125-FW-R-OSS-Non-Dynamic---Begonia-01-18)
+
 </details>
-
-
 
 </detail>
 
