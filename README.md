@@ -140,35 +140,36 @@ dd if=/dev/zero of=/dev/block/by-name/frp
 本机型已经更新了LineageOS v20.0 UNOFFICIAL(Android13)
 这是Telegram的更新信息，因为太长，我简单做了摘要
 
-<detail>
+<details>
+<summary>更新信息</summary>
+LineageOS v20.0 | UNOFFICIAL
 
-> LineageOS v20.0 | UNOFFICIAL
-> 
-> 开发者 @DarkJoker360dev
-> 
-> SELinux状态 强制执行
-> 
-> 修复 蓝牙音频
-> 
-> 修复 VoWiFi
-> 
-> 修复 VoLTE
-> 
-> 修复 屏幕录制器
-> 
-> 切换到AIDL widevine clearkey
-> 
-> 改进了应用程序的安装时间
-> 
-> 改进了性能
-> 
-> 无Gapps
-> 
-> [刷写手册](https://telegra.ph/Flash-ROM-AOSP-A12-Based-MIUI-125-FW-R-OSS-Non-Dynamic---Begonia-01-18)
+开发者 @DarkJoker360dev
+
+SELinux状态 强制执行
+
+修复 蓝牙音频
+
+修复 VoWiFi
+
+修复 VoLTE
+
+修复 屏幕录制器
+
+切换到AIDL widevine clearkey
+
+改进了应用程序的安装时间
+
+改进了性能
+
+无Gapps
+
+[刷写手册](https://telegra.ph/Flash-ROM-AOSP-A12-Based-MIUI-125-FW-R-OSS-Non-Dynamic---Begonia-01-18)
+</details>
+
+
 
 </detail>
-
-
 
 这是[下载链接](https://sourceforge.net/projects/darkjoker360-developements/files/Xiaomi/Redmi%20Note%208%20Pro/ROM/20.x/)
 
@@ -192,13 +193,7 @@ dd if=/dev/zero of=/dev/block/by-name/frp
 
 - 重启，完成
 
-
-
 !> LineageOS v20.0 不是 **动态分区** ，您必须线刷到MIUI12.5(Android11)才能继续
-
-
-
-
 
 感谢您的支持
 
