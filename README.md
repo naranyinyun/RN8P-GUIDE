@@ -1,5 +1,3 @@
-<font color="#21404D">  
-
 # 概述
 
 这是一本 Xiaomi Redmi Note 8 Pro(begonia) 的刷机手册
@@ -231,5 +229,3 @@ Powered By Docsify
 Copyright 2022 Nalanyinyun/Wilderness. All Rights Reserved
 
 本网站包含的内容使用[CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)共享
-
-</font>
