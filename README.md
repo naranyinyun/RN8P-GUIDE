@@ -182,7 +182,7 @@ SELinux状态 强制执行
 
 刷入指南：
 
-- 刷入[TWRP](https://mirror.nalanyinyun.ml/d/AliDriver/twrp_3.6.0_11-2-20211203-UNOFFICIAL-begonia.img)
+- 刷入[TWRP](https://mirror.nalanyinyun.ml/AliDriver/twrp_3.6.0_11-2-20211203-UNOFFICIAL-begonia.img)
 
 - 双清
 
