@@ -15,7 +15,7 @@
 
 ?> 部分链接我会放在友情链接部分中，请善用**侧边栏**
 
-!> <font color="Red">不要向使用任何人的收费服务(最基础的)，切莫助长歪风邪气</font>
+!> <font color="Red">不要接受任何人的收费服务(最基础的)，切莫助长歪风邪气</font>
 
 !> 你现在看到的绿色和红色信息框分别代表提示和警告,极具风险的警告我们会使用红色,<font color="Red">就像这样</font>
 
@@ -139,7 +139,7 @@ dd if=/dev/zero of=/dev/block/by-name/frp
 
 关于其他的步骤，可以参考上一小节的方法，我有点懒得写了，~~李姐万岁~~
 
-## LineageOS v20.0
+### LineageOS v20.0
 
 本机型已经更新了LineageOS v20.0 UNOFFICIAL(Android13)
 这是Telegram的更新信息，因为太长，我简单做了摘要
@@ -198,7 +198,6 @@ SELinux状态 强制执行
 
 !> LineageOS v20.0 不是 **动态分区** ，您必须线刷到MIUI12.5(Android11)才能继续
 
-感谢您的支持
 
 # 后记
 
