@@ -19,6 +19,8 @@
 
 !> 你现在看到的绿色和红色信息框分别代表提示和警告,极具风险的警告我们会使用红色,<font color="Red">就像这样</font>
 
+?> 需要验证码吗? RN8P-Docsify
+
 # Recovery
 
 ## 通过ADB刷入第三方Recovery
