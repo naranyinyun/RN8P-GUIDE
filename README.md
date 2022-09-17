@@ -21,6 +21,11 @@
 
 ?> 需要验证码吗? RN8P-Docsify
 
+我很喜欢一句话
+> Troubleshooting any problem without the error log is like driving with your eyes closed.
+>
+> 在没有错误日志的情况下排查问题等同于闭眼开车
+
 # Recovery
 
 ## 通过ADB刷入第三方Recovery
