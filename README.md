@@ -26,6 +26,13 @@
 >
 > 在没有错误日志的情况下排查问题等同于闭眼开车
 
+喜欢音乐吗?  
+<meting-js
+	server="netease"
+	type="song"
+	id="1809713119">
+</meting-js>
+
 # Recovery
 
 ## 通过ADB刷入第三方Recovery
