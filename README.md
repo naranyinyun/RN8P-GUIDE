@@ -215,6 +215,11 @@ SELinux状态 强制执行
 
 ?> 在提交PR时，请您允许所有者编辑，我们需要保持本手册的语言风格以及语法规范
 
+## 讨论(~~社区~~)
+
+我们在承载本项目的GitHub仓库开启了Discussions功能  
+如果你有任何疑问或建议，可以直接发布Issue或Discussions  
+
 ## 链接
 
 憨憨初音酱的[下载站](https://wxdowmloads.cn/)  
