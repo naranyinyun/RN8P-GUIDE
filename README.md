@@ -156,64 +156,25 @@ dd if=/dev/zero of=/dev/block/by-name/frp
 
 关于其他的步骤，可以参考上一小节的方法，我有点懒得写了，~~李姐万岁~~
 
-### LineageOS v20.0
+### 关于Android T(13)的☆特殊说明☆ 
 
-本机型已经更新了LineageOS v20.0 UNOFFICIAL(Android13)
-这是Telegram的更新信息，因为太长，我简单做了摘要
+目前的Android T ROM均基于MIUI12.5 Android R
 
-<details>
-<summary>更新信息</summary>
-LineageOS v20.0 | UNOFFICIAL
+这是刷入方法
+1. 刷入[twrp](https://drive.google.com/file/d/1i491MVtCRM1lKFrJKLR7gr4uba67lIHk/view?usp=sharing) v3.6.2_12-4
+2. 刷入ROM，双清，格式化data并重启
 
-开发者 @DarkJoker360dev
+!> <font color="red">目前Android T的ROM均为静态构建，您必须卡刷/线刷回MIUI才能继续</font>
 
-SELinux状态 强制执行
+!> 目前**所有**Android T ROM都存在解码器问题，表现为硬解视频时卡顿，花屏，绿屏，别慌，您的设备没有出现问题
 
-修复 蓝牙音频
+?> 目前没有第三方启动器适配Android T
 
-修复 VoWiFi
+?> 因为底层机制变更，大多数破解版软件无法使用
 
-修复 VoLTE
+!> 在一些ROM上，刷入magisk重启后管理器会不识别，请您卸载后刷入magisk24.3
 
-修复 屏幕录制器
-
-切换到AIDL widevine clearkey
-
-改进了应用程序的安装时间
-
-改进了性能
-
-无Gapps
-
-[刷写手册](https://telegra.ph/Flash-ROM-AOSP-A12-Based-MIUI-125-FW-R-OSS-Non-Dynamic---Begonia-01-18)
-
-</details>
-
-</detail>
-
-这是[下载链接](https://sourceforge.net/projects/darkjoker360-developements/files/Xiaomi/Redmi%20Note%208%20Pro/ROM/20.x/)
-
-先决条件:
-
-- 运行MIUI12.5(Android11)
-
-- 已解锁
-
-刷入指南：
-
-- 刷入[TWRP](https://mirror.nalanyinyun.ml/AliDriver/twrp_3.6.0_11-2-20211203-UNOFFICIAL-begonia.img)
-
-- 双清
-
-- 使用MTP将卡刷包传入手机
-
-- 选择卡刷包并滑动确认刷入
-
-- 格式化data
-
-- 重启，完成
-
-!> LineageOS v20.0 不是 **动态分区** ，您必须线刷到MIUI12.5(Android11)才能继续
+?> 在刷入任何模块前，请检查模块对Android版本的支持范围
 
 
 # 后记
