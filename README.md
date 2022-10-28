@@ -161,7 +161,8 @@ dd if=/dev/zero of=/dev/block/by-name/frp
 目前的Android T ROM均基于MIUI12.5 Android R
 
 这是刷入方法
-1. 刷入[twrp](https://drive.google.com/file/d/1i491MVtCRM1lKFrJKLR7gr4uba67lIHk/view?usp=sharing) v3.6.2_12-4
+1. 刷入[twrp](https://drive.google.com/file/d/1i491MVtCRM1lKFrJKLR7gr4uba67lIHk/view?usp=sharing) v3.6.2_12-4  
+也可以刷入[pbrp](https://www.pling.com/p/1928059/)  
 2. 刷入ROM，双清，格式化data并重启
 
 !> <font color="red">目前Android T的ROM均为静态构建，您必须卡刷/线刷回MIUI才能继续</font>
