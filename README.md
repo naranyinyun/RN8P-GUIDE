@@ -6,7 +6,7 @@
 [这是仓库链接](https://github.com/naranyinyun/RN8P-GUIDE)，如果你觉得不错，就给个star吧
 
 
-> 编纂/构建 [纳兰音韵](https://nalanyinyun.ml)
+> 本项目发起者 [纳兰音韵](https://nalanyinyun.ml)
 > 
 > 本手册由docsify强力驱动
 > 
