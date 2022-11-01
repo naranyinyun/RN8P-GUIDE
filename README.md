@@ -179,6 +179,8 @@ dd if=/dev/zero of=/dev/block/by-name/frp
 
 ?> 在刷入任何模块前，请检查模块对Android版本的支持范围
 
+?> 目前Android T ROM的毛病太多了，这部分我唠叨一点也是无奈之举
+
 
 # 后记
 
