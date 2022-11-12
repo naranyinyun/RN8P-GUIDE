@@ -167,7 +167,9 @@ dd if=/dev/zero of=/dev/block/by-name/frp
 
 !> <font color="red">目前Android T的ROM均为静态构建，您必须卡刷/线刷回MIUI才能继续</font>
 
-!> 目前**所有**Android T ROM都存在解码器问题，表现为硬解视频时卡顿，花屏，绿屏，别慌，您的设备没有出现问题
+!> 目前~~所有~~Android T ROM都存在解码器问题，表现为硬解视频时卡顿，花屏，绿屏，别慌，您的设备没有出现问题
+
+!> CherishOS 4.2 已经修复了解码器问题
 
 !> 在一些ROM上，刷入magisk重启后管理器会不识别，请您卸载后刷入magisk24.3
 
