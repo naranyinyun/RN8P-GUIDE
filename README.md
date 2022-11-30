@@ -167,10 +167,6 @@ dd if=/dev/zero of=/dev/block/by-name/frp
 
 !> <font color="red">目前Android T的ROM均为静态构建，您必须卡刷/线刷回MIUI才能继续</font>
 
-!> 目前~~所有~~Android T ROM都存在解码器问题，表现为硬解视频时卡顿，花屏，绿屏，别慌，您的设备没有出现问题
-
-!> CherishOS 4.2 已经修复了解码器问题
-
 !> 在一些ROM上，刷入magisk重启后管理器会不识别，请您卸载后刷入magisk24.3
 
 !> 2022年10月5日Android安全性更新会导致部分旧版软件无法使用
@@ -178,11 +174,6 @@ dd if=/dev/zero of=/dev/block/by-name/frp
 ?> 目前没有第三方启动器适配Android T
 
 ?> 因为非SDK的接口限制变更，利用内置hook的破解软件可能无法使用
-
-?> 在刷入任何模块前，请检查模块对Android版本的支持范围
-
-?> 目前Android T ROM的毛病太多了，这部分我唠叨一点也是无奈之举
-
 
 # 后记
 
